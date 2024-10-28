@@ -1,0 +1,44 @@
+# Directorios de compilación
+/bin/
+/target/
+/build/
+
+# Archivos de clase
+*.class
+
+# Archivos de configuración de IDEs
+.idea/
+*.iml
+*.hprof
+*.log
+
+# Dependencias de Maven y Gradle
+/.mvn/
+/target/
+/.gradle/
+/build/
+*.jar
+*.war
+*.ear
+*.db
+*.DS_Store
+
+# Archivos de configuración del sistema
+*.swp
+*~
+
+# Archivos de usuario
+*.user
+*.class
+*.jar
+
+# Archivos de compilación de Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.DS_Store
+apache-maven-3.8.8-bin.zip
+apache-opennlp-2.4.0-bin.zip
+stanford-corenlp-4.5.7.zip
